@@ -10,6 +10,8 @@ output:
 
 Libraries are loaded. The data is read and formatted for easy manipulation.
 
+*Change the directory in the setwd() function to wherever activity.csv is placed.*
+
 ```{r}
 library(ggplot2)
 setwd("C:/Users/kiiiiibble/Desktop/Coursera - R Programming")
