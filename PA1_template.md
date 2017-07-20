@@ -5,6 +5,8 @@
 
 Libraries are loaded. The data is read and formatted for easy manipulation.
 
+*Change the directory in the setwd() function to wherever activity.csv is placed.*
+
 
 ```r
 library(ggplot2)
